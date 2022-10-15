@@ -25,6 +25,7 @@
 <div align=center> 
   <a href="https://instagram.com/javan.franca18" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:javan.franca18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://www.linkedin.com/in/javan-de-fran%C3%A7a-75038b234/"><img src="https://www.google.com/search?q=https%3A%2F%2Fshields.io+linked+in&oq=https%3A%2F%2Fshields.io+linked+in&aqs=chrome..69i57j69i58.2608j0j4&sourceid=chrome&ie=UTF-8" target="_blank"></a>
  
 ![Snake animation](https://github.com/JavanFA/JavanFA/blob/output/github-contribution-grid-snake.svg)
  
