@@ -2,10 +2,12 @@
 
  - **Olá, me chamo Javan de França, tenho 22 anos e moro em Recife, Pernambuco. Atualmente tenho o objetivo de virar um desenvolvedor Front-End**
 
-## Aprendendo
+## Tecnologias:
  - HTML
  - CSS
- - JavaScript 
+ - JavaScript
+ - Git e Github
+ - React
 ##
 
 <div align="center">
