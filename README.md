@@ -8,7 +8,7 @@
  - JavaScript
  - Git e Github
  - React
-##
+ - Sass
 
 <div align="center">
   <a href="https://github.com/JavanFA">
