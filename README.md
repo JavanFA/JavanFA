@@ -1,6 +1,6 @@
 ## Salve 👊
 
- - **Olá, me chamo Javan de França, tenho 22 anos e moro em Recife, Pernambuco. Atualmente estou estudando com foco no Desenvolvimento WEB FrontEnd**
+ - **Olá, me chamo Javan de França, tenho 22 anos e moro em Recife, Pernambuco. Atualmente faço Licenciatura em Computação na UFRPE, e estou estudando com foco no Desenvolvimento FrontEnd**
 
 ## Tecnologias:
  - HTML
