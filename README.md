@@ -1,6 +1,6 @@
 ## Salve 👊
 
- - **Olá, me chamo Javan de França, tenho 24 anos e moro em Recife, Pernambuco. Atualmente faço Licenciatura em Computação na UFRPE, e sou Desenvolvedor FrontEnd**
+ - **Olá, me chamo Javan de França, tenho 24 anos e moro em Recife, Pernambuco. Atualmente faço Licenciatura em Computação na UFRPE, e sou Engenheiro de automação de testes na Accenture Brasil**
 
 ## Tecnologias:
  - HTML
